@@ -67,7 +67,7 @@ body {
 }
 
 .button1 {background-color: rgba(153, 153, 153, 1);} /* silver */
-.button2 {background-color: rgba(255, 98, 4, 1);} /* Orange */
+.button2 {background-color: rgb(212, 39, 33);} /* Orange */
 .button3 {background-color: rgba(1, 1, 2, 1);} /* Black */
 .button4 {background-color: rgba(10, 90, 50, 1);} /* Green */
 .button5 {background-color: rgb(145, 17, 106);} /* Green */
