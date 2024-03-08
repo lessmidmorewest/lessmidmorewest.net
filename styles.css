@@ -72,6 +72,7 @@ body {
 .button4 {background-color: rgba(10, 90, 50, 1);} /* Green */
 .button5 {background-color: rgb(145, 17, 106);} /* Green */
 .button6 {background-color: rgb(15, 10, 90);} /* Green */
+.button7 {background-color: rgb(91, 10, 158);} /* Green */
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media (max-width: 600px) {
