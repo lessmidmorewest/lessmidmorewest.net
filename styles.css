@@ -75,6 +75,22 @@ body {
 .button7 {background-color: rgb(91, 10, 158);} /* Green */
 .button8 {background-color: rgb(190, 187, 5);} /* Green */
 
+.blink {
+  animation: blink 1s steps(1, end) infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media (max-width: 600px) {
   .column.side, .column.middle {
